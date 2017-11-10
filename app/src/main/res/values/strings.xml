@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ZonkyStats</string>
+    <string name="range_3m">3 měsíce</string>
+    <string name="range_12m">12 měsíců</string>
+    <string name="range_lastY">2016</string>
+    <string name="range_actualY">2017</string>
+    <string name="view_error_message">Uuups ... něco se pokazilo</string>
+</resources>

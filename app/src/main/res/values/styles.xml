@@ -1,0 +1,19 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:actionBarStyle">@style/ZonkyActionBar</item>
+        <item name="actionBarStyle">@style/ZonkyActionBar</item>
+    </style>
+
+    <style name="ZonkyActionBar" parent="@style/Widget.AppCompat.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">@color/colorPrimary</item>
+        <item name="background">@color/colorPrimary</item>
+    </style>
+
+    <style name="ButtonBar" parent="Base.TextAppearance.AppCompat.Widget.Button.Borderless.Colored">
+        <item name="android:background">@drawable/button_bar</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:paddingBottom">6dp</item>
+        <item name="android:paddingTop">6dp</item>
+    </style>
+</resources>
